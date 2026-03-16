@@ -14,5 +14,5 @@ variable "location" {
 
 variable "subscription_id" {
   type        = string
-  description = "2f82de0f-f236-4e28-a9a7-58f5d2e8ce4c"
+  description = "aed54507-62b1-4505-a3a2-3cd52c03b698"
 }
